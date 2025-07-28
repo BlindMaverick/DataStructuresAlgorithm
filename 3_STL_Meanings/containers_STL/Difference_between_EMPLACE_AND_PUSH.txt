@@ -1,0 +1,10 @@
+Emplace and push are both similar to each other but under the hood,
+
+-   PUSH needs to have a pre-placed object, and the it uses the method 
+    COPY OR MOVE in involved meaning it takes a longer time and space 
+    complexity which impacts on the efficiency.
+
+-   On the other hand, EMPLACE does not need pre-placed object, and also
+    does not use COPY or MOVE to insert a element, meaning less time and 
+    space complexity which has a higher efficieny.
+    

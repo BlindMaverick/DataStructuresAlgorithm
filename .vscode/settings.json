@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "istream": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp"
+    },
+    // Disable GitHub Copilot completely
+    "github.copilot.enable": {
+        "*": false
+    },
+    // Disable default IntelliSense suggestions
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    // Disable ghost text-style suggestions
+    "editor.inlineSuggest.enabled": false
+}
