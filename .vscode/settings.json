@@ -2,7 +2,8 @@
     "files.associations": {
         "istream": "cpp",
         "iostream": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "queue": "cpp"
     },
     // Disable GitHub Copilot completely
     "github.copilot.enable": {
